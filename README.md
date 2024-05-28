@@ -59,8 +59,9 @@
 |이름|파트|레포|
 |---|---|---|
 |고민채|안드로이드|[이동하기](https://github.com/gom1n)| 
-|고민채|안드로이드|[이동하기](https://github.com/gom1n)|
+|한채연|안드로이드|[이동하기](https://github.com/cyeon1118)|
 |김정우|백엔드|[이동하기](https://github.com/friendshipkim97)|
+|박상준|백엔드|[이동하기](https://github.com/sangjun-Park1208)|
 
 ## :fire: Collaboration
 1. Github
